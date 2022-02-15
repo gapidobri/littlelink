@@ -453,3 +453,13 @@ button:hover,
 .button.button-xing:focus {
   filter: brightness(90%);
 }
+
+/* Anilist */
+.button.button-anilist {
+  color: #ffffff;
+  background-color: #19212d;
+}
+.button.button-anilist:hover,
+.button.button-anilist:focus {
+  filter: brightness(90%);
+}
