@@ -463,3 +463,13 @@ button:hover,
 .button.button-anilist:focus {
   filter: brightness(90%);
 }
+
+/* Matrix */
+.button.button-matrix {
+  color: #000;
+  background-color: #fff;
+}
+.button.button-matrix:hover,
+.button.button-matrix:focus {
+  filter: brightness(90%);
+}
